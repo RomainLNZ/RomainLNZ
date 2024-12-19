@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/asset/img/nom.png" alt="Romain Lonza" width="400" />
+  <img src="asset/img/nom.png" alt="Romain Lonza" width="400" />
 </p>
 
 ---
@@ -33,6 +33,8 @@
   Passionate about web development, I support you in creating, optimizing, and deploying your digital projects. My goal: to turn your ideas into efficient, intuitive, and tailored solutions.
 </p>
 
+---
+
 ## 💻 Web Development Skills:
 
 <p>
@@ -59,7 +61,7 @@
 
 ## 📍 Location and Availability:
 
-I am based in the oise region and available to work remotely or on site (up to 90 km).
+I am based in the Oise region and available to work remotely or on site (up to 90 km).
 
 - **Email:** [romain.lonza@gmail.com](mailto:romain.lonza@gmail.com)  
 ---
