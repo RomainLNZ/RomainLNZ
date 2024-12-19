@@ -38,7 +38,7 @@
 <p>
 
 - **Front-end:**  
-  <img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <a href="https://www.svelte.com/"><img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 
 
@@ -65,11 +65,11 @@ I am based in the oise region and available to work remotely or on site (up to 9
 ## 📂 Featured Links:
 
 - **Portfolio Website:** [romainlonza.fr](https://romainlonza.fr/)  
-- **Portfolio Repository:** [GitHub Repo](https://github.com/RomainLNZ/RomainLNZ)  
-- **LinkedIn** [Linkiedin](https://www.linkedin.com/in/romain-lonza/)  
+<!-- - **Portfolio Repository:** [GitHub Repo](https://github.com/RomainLNZ/RomainLNZ)   -->
+- **LinkedIn:** [romain-lonza](https://www.linkedin.com/in/romain-lonza/)  
 
 ---
 
 ## 💡 My Value Proposition:
 
-Detail-oriented, curious, and creative, I bring dual expertise in web development and visual effects editing. I strive to exceed expectations with a meticulous and results-driven approach.
+Soucieux du détail, curieux et créatif, je m'efforce de dépasser les attentes grâce à une approche méticuleuse et axée sur les résultats. 💡 Construisons ensemble quelque chose d'extraordinaire !
