@@ -34,8 +34,8 @@
 </p>
 
 ## 💻 Web Development Skills:
-- **Front-end:** 
 <p>
+- **Front-end:** 
   <img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 
@@ -50,7 +50,8 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-- **Additional skills:** Responsive design, API integration, Agile development---
+- **Additional skills:** 
+  Responsive design, API integration, Agile development
 
 ## 📍 Location and Availability:
 
