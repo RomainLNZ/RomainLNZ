@@ -50,11 +50,11 @@
 - **Tools & Platforms:**  
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visualstudio-%9effff?style=for-the-badge&logo=postman&logoColor=white" alt="Visualstudio" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /></a>
 </p>
 
 - **Additional skills:**  
-  Responsive design, API integration, Agile development
+  Responsive design - API integration - Agile development
 
 ## 📍 Location and Availability:
 
