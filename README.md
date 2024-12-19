@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RomainLNZ/RomainLNZ/asset/img/nom.png" alt="Romain Lonza" width="400" />
+  <img src="/asset/img/nom.png" alt="Romain Lonza" width="400" />
 </p>
 
 ---
@@ -38,14 +38,18 @@
 <p>
   <img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+
+- **Back-end:**  
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  
+  
+- **Tools & Platforms:**
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-- **Front-end:** Vue.js, Svelte, JavaScript, CSS/SCSS  
-- **Back-end:** Node.js, PHP  
-- **Tools & Platforms:** Docker, Postman, Git  
+
 - **Additional skills:** Responsive design, API integration, Agile development---
 
 ## 📍 Location and Availability:
