@@ -13,9 +13,9 @@
   <a href="https://romainlonza.fr/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%236c63ff?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/RomainLNZ/RomainLNZ" target="_blank">
+  <!-- <a href="https://github.com/RomainLNZ/RomainLNZ" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Repo-%23f0f5f9?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio Repo" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/romain-lonza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,7 +37,7 @@
 
 <p>
 
-- **Front-end:** 
+- **Front-end:**  
   <img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 
