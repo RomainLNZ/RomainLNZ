@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/nom.png" alt="Romain Lonza" width="400" />
+  <img src="./assets/img/RomainLONZA.png" alt="Romain Lonza" width="400" />
 </p>
 
 ---
