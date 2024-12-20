@@ -40,7 +40,7 @@
 <p>
 
 - **Front-end:**  
-  <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
 
 
