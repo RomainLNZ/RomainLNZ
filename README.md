@@ -76,5 +76,4 @@ I am based in the Oise region and available to work remotely or on site (up to 9
 
 ## 💡 My Value Proposition:
 
-<<<<<<< HEAD
 Detail-oriented, curious and creative, I strive to exceed expectations with a meticulous, results-driven approach. 💡 Let's build something extraordinary together!
